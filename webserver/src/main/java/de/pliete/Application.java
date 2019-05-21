@@ -1,4 +1,4 @@
-package java.de.pliete;
+package de.pliete;
 
 import java.util.Arrays;
 
