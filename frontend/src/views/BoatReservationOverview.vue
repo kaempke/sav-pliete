@@ -1,3 +1,3 @@
 <template>
-    <h1>lala</h1>
+    <h1>Boat Reservation</h1>
 </template>
